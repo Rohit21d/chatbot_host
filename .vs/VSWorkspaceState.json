@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\chatbot",
+    "\\config",
+    "\\routes"
   ],
-  "SelectedNode": "\\package.json",
+  "SelectedNode": "\\config\\prod.js",
   "PreviewInSolutionExplorer": false
 }
