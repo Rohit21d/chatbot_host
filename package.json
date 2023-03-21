@@ -1,0 +1,19 @@
+{
+  "name": "reactbot",
+  "version": "1.0.0",
+  "description": "React bot ",
+  "main": "index.js",
+  "engines":{
+        "node":"18.15.0",
+        "npm":"9.5.0"
+        
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Rohit",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
