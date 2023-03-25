@@ -4,6 +4,7 @@ import 'materialize-css/dist/css/materialize.min.css';
 import App from './components/App';
 import reportWebVitals from './reportWebVitals';
 
+
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
