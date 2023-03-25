@@ -6,17 +6,16 @@ import Chatbot from './chatbot/Chatbot';
 
 
 
-const App = () => {
-    return (
+const App = () => (
         <div>
-        Webpage
-               <BrowserRouter>
-           <div>
+       <BrowserRouter>
+           <div className="container">
                <Chatbot />
            </div>
-       </BrowserRouter></div>
-    )
-}
+       </BrowserRouter>
+    </div>
+)
+
 
 
 export default App;
