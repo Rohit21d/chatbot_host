@@ -1,13 +1,16 @@
 {
   "ExpandedNodes": [
     "",
+    "\\chatbot",
     "\\client",
     "\\client\\public",
+    "\\client\\src",
     "\\client\\src\\components",
     "\\client\\src\\components\\chatbot",
+    "\\client\\src\\components\\pages",
     "\\config",
     "\\routes"
   ],
-  "SelectedNode": "\\client\\package.json",
+  "SelectedNode": "\\client\\src\\components\\chatbot\\Chatbot.js",
   "PreviewInSolutionExplorer": false
 }
